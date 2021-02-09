@@ -5,3 +5,8 @@ Each pose is made of 34 numerical values which represent the 2D coordinates of 1
 The paper has been accepted for publication at CARE2020 ICPR's Workshop. Check out the [Video Presentation](http://phuselab.di.unimi.it/CARE2020/program.html) on CARE2020  website.
 
 ![Cover image](./github_images/fake-pose.png)
+
+# Citation
+If you use any part of this code in your research, please cite our paper:
+
+<bibtex>
