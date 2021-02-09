@@ -9,4 +9,6 @@ The paper has been accepted for publication at CARE2020 ICPR's Workshop. Check o
 # Citation
 If you use any part of this code in your research, please cite our paper:
 
-<bibtex>
+  Real Time Remote Fall Detection Using Deep Neural Networks.\
+  Andrea Apicella, Lauro Snidaro. 
+  
