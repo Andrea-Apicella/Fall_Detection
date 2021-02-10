@@ -9,11 +9,13 @@ The paper has been accepted for publication at CARE2020 ICPR's Workshop. Check o
 # Citation
 If you use any part of this code in your research, please cite our paper:
 
-@INPROCEEDINS {,  \
-    author    = {Andrea Apicella and Lauro Snidaro},\
-    title     = {Deep Neural Networks for real-time remote fall detection},\
-    booktitle = {Proceedings of the CARE 2020 workshop},\
-    year      = {2021},\
-    month     = {jan}\
-}
+<pre>
+@INPROCEEDINS {,  
+    author    = {Andrea Apicella and Lauro Snidaro},
+    title     = {Deep Neural Networks for real-time remote fall detection},
+    booktitle = {Proceedings of the CARE 2020 workshop},
+    year      = {2021},
+    month     = {jan}
+  }
+</pre>
 
