@@ -15,7 +15,8 @@ If you use any part of this code in your research, please cite our paper:
     title     = {Deep Neural Networks for real-time remote fall detection},
     booktitle = {Proceedings of the CARE 2020 workshop},
     year      = {2021},
-    month     = {jan}
+    month     = {jan},
+    note = {(in press)},
   }
 </pre>
 
