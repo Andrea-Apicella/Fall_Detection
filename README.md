@@ -16,7 +16,7 @@ If you use any part of this code in your research, please cite our paper:
     booktitle = {Proceedings of the CARE 2020 workshop},
     year      = {2021},
     month     = {jan},
-    note = {(in press)},
+    note = {(in press)}
   }
 </pre>
 
