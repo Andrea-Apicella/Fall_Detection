@@ -10,13 +10,6 @@ The paper has been accepted for publication at CARE2020 ICPR's Workshop. Check o
 If you use any part of this code in your research, please cite our paper:
 
 <pre>
-@INPROCEEDINS {,  
-    author    = {Andrea Apicella and Lauro Snidaro},
-    title     = {Deep Neural Networks for real-time remote fall detection},
-    booktitle = {Proceedings of the CARE 2020 workshop},
-    year      = {2021},
-    month     = {jan},
-    note = {(in press)}
-  }
+Apicella A., Snidaro L. (2021) Deep Neural Networks for Real-Time Remote Fall Detection. In: Del Bimbo A. et al. (eds) Pattern Recognition. ICPR International Workshops and Challenges. ICPR 2021. Lecture Notes in Computer Science, vol 12662. Springer, Cham. https://doi.org/10.1007/978-3-030-68790-8_16
 </pre>
 
